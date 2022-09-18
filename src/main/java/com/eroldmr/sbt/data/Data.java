@@ -1,7 +1,5 @@
 package com.eroldmr.sbt.data;
 
-import com.eroldmr.sbt.person.Person;
-
 import java.util.List;
 
 public class Data {
